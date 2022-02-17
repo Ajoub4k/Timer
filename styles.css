@@ -1,0 +1,76 @@
+.title{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+/* CLOCK/
+
+.clock-wrapper{
+    background-color:purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.clock {
+    font-size: 270px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    margin: 0px;
+}
+
+#date {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 60px;
+    margin: 0px;
+}
+
+/ COUNTDOWN*/
+
+.countdown-wrapper{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.countdown {
+    font-size: 90px;
+    align-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding-top: 80px;
+}
+
+.timer {
+    font-size: 200px;
+    align-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+input[type="datetime-local" i] {
+    font-family: monospace;
+    cursor: default;
+    margin-bottom: 50px;
+    margin-left: 85px;
+    padding: 15px;
+}
+.date-button{
+    color: #ff0000e8;
+    cursor: pointer;
+    background: #0000008a;
+    font-size: 25px;
+    padding: 15px;
+    border: none;
+    margin: 10px;
+ }
+
